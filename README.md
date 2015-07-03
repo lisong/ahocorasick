@@ -6,4 +6,4 @@ LICENSE.
 Building the jar
 ================
 
-To compile the jar, run `mvn install'.
+To compile the jar, run `mvn install`.
